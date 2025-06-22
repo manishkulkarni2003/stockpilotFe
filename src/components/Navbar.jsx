@@ -14,7 +14,7 @@ const Navbar = () => {
           Watchlist
         </li>
         <li className="bg-white text-black px-4 py-2 rounded-md hover:bg-yellow-300 transition duration-300 cursor-pointer ml-4">
-          Portfolio
+          Portfolio Hello
         </li>
       </ul>
     </nav>
